@@ -57,9 +57,9 @@ class BasketballScreen(Screen):
         layout = FloatLayout()
         self.add_widget(layout)
 
-        self.background = Image(source = ".png", size_hint=(1, 1))
+        self.background = Image(source = "soccer.png", size_hint=(1, 1))
         layout.add_widget(self.background)
-        self.ball = Image(source = ".png",)
+        self.ball = Image(source = "ball.png",)
 
 # Створити дві бутон
 
