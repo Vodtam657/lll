@@ -7,7 +7,7 @@ from kivy.core.window import Window
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.image import Image
 from kivy.uix.widget import Widget
-from kivy.uix.animation import Animation
+from kivy.animation import Animation
 from kivy.properties import NumericProperty
 
 
